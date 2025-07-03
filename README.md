@@ -2,4 +2,4 @@
 
 Turns the overhauled models into player wearable outfits.
 
-More info in:
+More info in: https://www.moddb.com/mods/stalker-anomaly/addons/ps6-voin-aztec-overhaul-fvm-player-outfits-addon
