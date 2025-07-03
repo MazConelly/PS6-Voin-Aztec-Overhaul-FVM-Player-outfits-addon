@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="helm_gp21">
+		<text>GP-21 ranger gas mask</text>
+	</string>
+	<string id="helm_gp21_descr">
+		<text>%c[ui_gray_1]
+		The GP-21 is a gas mask kit that is available for purchase in the Russian Federation and in some cases issued to civilians in Russia. The facepiece is actually named the MP-3, which was used in prototypes presented to the Russian army but ultimately rejected, though it's been known to be in use by special forces units.\n
+		This particular sample was integrated into a surplus Exohelm and was reinforced under the ruber parts with some light plating, providing decent protection at the cost of flexibility and weight. It won't protect your head as much as a proper Exohelm, but it will still be able to carry you far.
+		</text>
+	</string>
+
+	<string id="dolg_aztec_outfit">
+		<text>PS6-V Eagle suit</text>
+	</string>
+	<string id="dolg_aztec_outfit_descr">
+		<text>%c[ui_gray_1]Modified PS6-V bodysuit, sporting heavily increased protection over the basic variant. The issues with production costs were easily solved after discovering the original designer used next generation metamaterials; effective to be sure, but incredibly costly, and only able to be used sparingly. By using more true and tested materials, producing this outfit became much more viable, though at a cost in weight.
+		</text>
+	</string>
+	
+	<string id="merc_aztec_outfit">
+		<text>PS6-V Jaguar suit</text>
+	</string>
+	<string id="merc_aztec_outfit_descr">
+		<text>%c[ui_gray_1]Modified PS6-V bodysuit, sporting heavily increased protection over the basic variant. The issues with production costs were easily solved after discovering the original designer used next generation metamaterials; effective to be sure, but incredibly costly, and only able to be used sparingly. By using more true and tested materials, producing this outfit became much more viable, though at a cost in weight.
+		</text>
+	</string>
+	
+</string_table>
